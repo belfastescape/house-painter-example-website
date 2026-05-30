@@ -47,8 +47,8 @@ export function HomeHero() {
         <div className={styles.imageWrap}>
           <div className={styles.imageFigure}>
             <Image
-              src="/uploads/open-paint-cans-brushes.webp"
-              alt="Open paint cans and brushes ready for a painting project in Stockport"
+              src="/images/hero-image.webp"
+              alt="Professional painter at work in Stockport"
               fill
               sizes="(max-width: 768px) 100vw, 50vw"
               priority
