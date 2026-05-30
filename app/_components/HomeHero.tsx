@@ -20,7 +20,7 @@ export function HomeHero() {
           <span className="label-badge">Stockport&#8217;s trusted painters</span>
 
           <h1 className={styles.heading}>
-            Painting and Decorating Stockport Homes for 20 years
+            Painting and Decorating Stockport<br />for the last 20 years — beautifully.
           </h1>
 
           <p className={styles.lead}>

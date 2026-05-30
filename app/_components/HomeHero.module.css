@@ -68,12 +68,12 @@
 }
 
 .heading {
-  font-size: var(--fs-h1);
+  font-size: clamp(1.5rem, 0.8rem + 1.5vw, 1.875rem);
   font-family: var(--font-heading);
   font-weight: var(--heading-weight);
   letter-spacing: var(--heading-letter-spacing);
   color: var(--color-text);
-  line-height: 1.08;
+  line-height: 1.12;
   margin-top: var(--space-2xs);
 }
 
