@@ -1,0 +1,22 @@
+.content {
+  padding-block: var(--space-3xl);
+  background-color: var(--color-bg);
+}
+
+.content h2 {
+  font-size: var(--fs-h3);
+  font-family: var(--font-heading);
+  margin-top: var(--space-xl);
+  margin-bottom: var(--space-sm);
+  color: var(--color-text);
+}
+
+.content p {
+  color: var(--color-text-fade);
+  line-height: 1.7;
+  margin-bottom: var(--space-sm);
+}
+
+.content a {
+  color: var(--color-accent);
+}
